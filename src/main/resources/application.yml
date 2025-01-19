@@ -1,0 +1,10 @@
+spring:
+  application:
+   name: spring-intro-2
+
+server:
+  port: 8182
+
+#logging:
+#  level:
+#    root: TRACE
